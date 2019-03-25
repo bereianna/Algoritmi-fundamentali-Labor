@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\bin\Debug\prima problema.exe.config
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\bin\Debug\prima problema.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\bin\Debug\prima problema.pdb
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\obj\Debug\prima problema.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\obj\Debug\prima problema.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\obj\Debug\prima problema.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\prima problema\prima problema\obj\Debug\prima problema.pdb

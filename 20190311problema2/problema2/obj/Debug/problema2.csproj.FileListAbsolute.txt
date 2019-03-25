@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\bin\Debug\problema2.exe.config
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\bin\Debug\problema2.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\bin\Debug\problema2.pdb
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\obj\Debug\problema2.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\obj\Debug\problema2.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\obj\Debug\problema2.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\problema2\problema2\obj\Debug\problema2.pdb

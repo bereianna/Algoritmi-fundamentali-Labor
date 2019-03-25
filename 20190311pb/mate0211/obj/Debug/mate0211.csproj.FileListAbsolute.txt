@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\bin\Debug\mate0211.exe.config
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\bin\Debug\mate0211.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\bin\Debug\mate0211.pdb
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\obj\Debug\mate0211.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\obj\Debug\mate0211.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\obj\Debug\mate0211.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\mate0211\mate0211\obj\Debug\mate0211.pdb

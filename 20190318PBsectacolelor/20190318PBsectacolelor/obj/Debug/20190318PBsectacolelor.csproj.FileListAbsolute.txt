@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\bin\Debug\20190318PBsectacolelor.exe.config
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\bin\Debug\20190318PBsectacolelor.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\bin\Debug\20190318PBsectacolelor.pdb
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\obj\Debug\20190318PBsectacolelor.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\obj\Debug\20190318PBsectacolelor.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\obj\Debug\20190318PBsectacolelor.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\20190318PBsectacolelor\20190318PBsectacolelor\obj\Debug\20190318PBsectacolelor.pdb
