@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\bin\Debug\Marire2.exe.config
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\bin\Debug\Marire2.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\bin\Debug\Marire2.pdb
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\obj\Debug\Marire2.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\obj\Debug\Marire2.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\obj\Debug\Marire2.exe
+D:\Documents\Panni\universirate\Laslo-algoritmi fundamentali\Marire2\obj\Debug\Marire2.pdb
